@@ -1,0 +1,33 @@
+html{
+	font-size: 16px;
+}
+
+h2{
+	background: lightblue;
+}
+
+.product{
+	display: flex;
+}
+
+.item{
+	width: 255px;
+	height: 190px;
+}
+
+form{
+	padding: 5rem 0;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+span{
+	background: #48abc9;
+}
+
+a{
+	background: #48abc8;
+}
